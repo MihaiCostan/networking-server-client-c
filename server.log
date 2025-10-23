@@ -1,0 +1,13 @@
+[MONITOR PID=1565]: Procesul de monitorizare a comenzilor pornit pentru serverul cu PID=1564
+[2025-10-23 19:52:13] --> login (username: admin   client_pid: 1566)
+[2025-10-23 19:52:22] --> FAILED! "login (username_already_logged_elsewhere: admin   client_pid: 1567)"
+[2025-10-23 19:52:30] --> login (username: mihai   client_pid: 1567)
+[2025-10-23 19:52:48] --> quit (client_pid: 1567)
+[2025-10-23 19:52:56] --> get-logged-users (username: admin   client_pid: 1566)
+[2025-10-23 19:53:09] --> get-proc-info (username: admin   client_pid: 1566   target_pid: 1566)"
+[2025-10-23 19:53:30] --> logout (username: admin   client_pid: 1566)
+[2025-10-23 19:53:34] --> quit (client_pid: 1566)
+[2025-10-23 19:53:45] --> login (username: admin   client_pid: 1578)
+[2025-10-23 19:53:47] --> shutdown-server (username: admin   client_pid: 1578)
+[MONITOR PID=1565] Primit SHUTDOWN. Inchid monitorul.
+
