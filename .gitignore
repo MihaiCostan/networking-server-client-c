@@ -1,0 +1,23 @@
+# 🔧 Fișiere compilate
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# 🧰 Executabile locale
+server
+client
+
+# 🗑️ Loguri și fișiere temporare
+*.tmp
+
+# ⚙️ Fișiere de sistem / editor
+.DS_Store
+*.swp
+*.swo
+
+# 🧵 Backup / build cache
+*.bak
+*.dSYM/
+
