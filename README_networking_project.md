@@ -13,7 +13,7 @@ Acest proiect implementează un sistem complet de comunicare **client–server**
 - **Protecție împotriva dublului login**
 - **Comenzi administrative**, inclusiv închiderea controlată a serverului
 - **Comenzi de sistem**: listare utilizatori activi, informații despre procese, etc.
-- **Si inca cateva alte caracteristici
+- **Si inca cateva alte caracteristici**
 
 ---
 
